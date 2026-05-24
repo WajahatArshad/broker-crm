@@ -577,20 +577,6 @@ This project demonstrates several senior-level engineering decisions worth calli
 
 ---
 
-## Screenshots
-
-> Dashboard previews — replace with actual screenshots before publishing
-
-| Admin Dashboard | Broker Management |
-|---|---|
-| ![Admin Dashboard](docs/screenshots/admin-dashboard.png) | ![Broker Management](docs/screenshots/broker-management.png) |
-
-| Permissions Panel | Audit Logs |
-|---|---|
-| ![Permissions](docs/screenshots/permissions-panel.png) | ![Audit Logs](docs/screenshots/audit-logs.png) |
-
----
-
 ## License
 
 ```
